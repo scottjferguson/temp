@@ -1,4 +1,4 @@
-package io.market.nativebase.craftman.myexpense;
+package com.guroosolutions.guroo;
 
 import android.os.Bundle;
 

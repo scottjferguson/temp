@@ -1,4 +1,4 @@
-package io.market.nativebase.craftman.myexpense;
+package com.guroosolutions.guroo;
 
 import android.app.Application;
 import android.content.Context;
@@ -11,7 +11,7 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-import io.market.nativebase.craftman.myexpense.generated.BasePackageList;
+import com.guroosolutions.guroo.generated.BasePackageList;
 
 import org.unimodules.adapters.react.ReactAdapterPackage;
 import org.unimodules.adapters.react.ModuleRegistryAdapter;

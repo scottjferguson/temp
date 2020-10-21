@@ -315,7 +315,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.market.nativebase.craftman.myexpense;
+				PRODUCT_BUNDLE_IDENTIFIER = com.guroosolutions.guroo;
 				PRODUCT_NAME = myexpense;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -341,7 +341,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.market.nativebase.craftman.myexpense;
+				PRODUCT_BUNDLE_IDENTIFIER = com.guroosolutions.guroo;
 				PRODUCT_NAME = myexpense;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;

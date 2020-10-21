@@ -1,4 +1,4 @@
-package io.market.nativebase.craftman.myexpense.generated;
+package com.guroosolutions.guroo.generated;
 
 import java.util.Arrays;
 import java.util.List;

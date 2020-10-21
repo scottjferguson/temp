@@ -22,10 +22,10 @@
       "fallbackToCacheTimeout": 0
     },
     "ios": {
-      "bundleIdentifier": "io.market.nativebase.craftman.myexpense"
+      "bundleIdentifier": "com.guroosolutions.guroo"
     },
     "android": {
-      "package": "io.market.nativebase.craftman.myexpense"
+      "package": "com.guroosolutions.guroo"
     },
     "androidStatusBar": {
       "translucent": true

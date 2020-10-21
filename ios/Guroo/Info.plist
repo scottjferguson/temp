@@ -26,7 +26,7 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>guroo</string>
-				<string>io.market.nativebase.craftman.myexpense</string>
+				<string>com.guroosolutions.guroo</string>
 			</array>
 		</dict>
 	</array>
